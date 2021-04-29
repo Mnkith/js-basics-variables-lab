@@ -1,7 +1,7 @@
 # JavaScript Variables Lab
 
 ## Learning Goals
-
+ 
 - Practice using const and let to declare variables in JavaScript
 
 ## Instructions
@@ -107,7 +107,7 @@ To get our first test to pass, we can open up our `index.js` file, and write the
 following:
 
 ```js
-let companyName = 'Scuber';
+let companyName = 'Scuber'; 
 ```
 
 If you run `learn` again, you'll see that our first test is now passing.
